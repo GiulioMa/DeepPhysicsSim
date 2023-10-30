@@ -16,7 +16,7 @@ This GitHub repository hosts a series of Jupyter notebooks aimed at exploring, a
 
 ## Notebooks
 ### 1. Angle of Detection Calculations (`0_Angle_of_Detection_Calculations.ipynb`)
-- **Purpose**: To calculate the angle of detection (\( \alpha \)) for various cube samples with different distances to the detector.
+- **Purpose**: To calculate the angle of detection $(\alpha)$ for various cube samples with different distances to the detector.
 - **Sequence**: This is the first notebook to be executed.
 - **Data**: Sample distances and detector heights.
 
