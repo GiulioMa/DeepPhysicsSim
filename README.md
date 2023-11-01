@@ -6,7 +6,7 @@ This GitHub repository hosts a series of Jupyter notebooks aimed at exploring, a
 ### Prerequisites
 - Python 3.x
 - Jupyter Notebook
-- Libraries: [List libraries based on the notebooks; likely includes Pandas, Matplotlib, Numpy, Scipy, etc.]
+- Libraries: TBD
 
 ### Installation
 1. Clone the repository to your local machine.
